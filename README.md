@@ -1,6 +1,6 @@
-# 🌿 Plant Leaf Disease Detection: Dataset, Model, and Deployment
+# 🌿 Plant Leaf Disease Detection
 
-This project demonstrates a **Plant Leaf Disease Detection** pipeline using deep learning and computer vision. It leverages the **Plant Leaf Disease Dataset** to identify plant diseases with an impressive **98% accuracy** using a **CNN model with InceptionV3 as the backbone**. The model is deployed for public use on [**Hugging Face Spaces**](https://huggingface.co/spaces/bhanusAI/plantifysol) with an interactive UI powered by **Gradio**.
+This project demonstrates a **Plant Leaf Disease Detection** pipeline using deep learning. It leverages the [**Plant Leaf Disease Dataset**](https://data.mendeley.com/datasets/tywbtsjrjv/1) to identify plant diseases with an impressive **98% accuracy** using a **CNN model with InceptionV3 as the backbone**. The model is deployed for public use on [**Hugging Face Spaces**](https://huggingface.co/spaces/bhanusAI/plantifysol) with an interactive UI powered by **Gradio**.
 
 ---
 
